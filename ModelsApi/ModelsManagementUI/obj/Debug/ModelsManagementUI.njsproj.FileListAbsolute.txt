@@ -1,0 +1,3 @@
+C:\Users\abdul\Documents\Coding\RUNE_VUE\ModelsApi v1.2\ModelsApi\ModelsManagementUI\obj\Debug\ModelsManagementUI.njsprojAssemblyReference.cache
+C:\Users\abdul\Documents\Coding\RUNE_VUE\ModelsApi v1.2\ModelsApi\ModelsManagementUI\obj\Debug\ModelsManagementUI.njsproj.CoreCompileInputs.cache
+C:\Users\abdul\Documents\Coding\RUNE_VUE\ModelsApi v1.2\ModelsApi\ModelsManagementUI\bin\Microsoft.NodejsTools.WebRole.dll
