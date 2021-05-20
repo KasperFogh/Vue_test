@@ -27,8 +27,8 @@ class Model{
     setEmail = function(email){
         this.Email = email;
     }
-    setPhoneNo = function(no){
-        this.PhoneNo = no;
+    setPhoneNo = function(phono){
+        this.PhoneNo = phono;
     }
 
 }
