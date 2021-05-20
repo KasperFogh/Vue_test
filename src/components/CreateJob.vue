@@ -1,7 +1,7 @@
 <template>
     <div class="wrapper fadeInDown">
          <div id="formContent">
-        {{msg}}
+          {{msg}}
          </div>
     </div>
 </template>
